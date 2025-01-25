@@ -1,0 +1,39 @@
+body{
+    background-image:url(blacbg.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%,100%;
+    background-attachment: fixed;
+}
+h1{text-align: center;
+   color: rgb(5, 7, 7);
+   background-color: rgb(104, 243, 192);
+   border: outset;
+   border-radius: round;
+
+}
+p{
+    font-size: 30px;text-align: center;color: bisque ;font-family: 'brush script mt',cursive;
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+    color: aquamarine;
+
+}
+.float-center{
+    font-size: large;text-align: center;color: rgb(250,150 green,255 blue);font-family: 'brush script mt',cursive;
+}
+h3{
+    text-align: center;color: rgb(178, 98, 248);
+}
+video{
+    display: inline-block;
+    margin-top: 50px;
+    width: 80%;
+    max-width: 300px;
+}
